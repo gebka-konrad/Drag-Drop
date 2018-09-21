@@ -1,0 +1,126 @@
+
+    {
+        "type": "PDF",
+        "elements": [
+            {
+                "type": "cover",
+                "background-image": "movo-background.jpg",
+                "elements": [
+                    {
+                        "type": "rectangle",
+                        "top": "20",
+                        "right": "20",
+                        "bottom": "100",
+                        "left": "20",
+                        "background-color": "#FFFFFF",
+                        "elements": [
+                            {
+                                "type": "h1",
+                                "left": "30",
+                                "top": "150",
+                                "value": "Openflow",
+                                "size": "42",
+                                "weight": "500",
+                                "color": "#333333"
+                            },
+                            {
+                                "type": "line",
+                                "left": "30",
+                                "top": "180",
+                                "color": "#000000",
+                                "height": "4",
+                                "width": "80"
+                            },
+                            {
+                                "type": "h2",
+                                "left": "30",
+                                "top": "180",
+                                "value": "Business processing platform.",
+                                "size": "38",
+                                "weight": "100",
+                                "color": "#ff0000"
+                            },
+                            {
+                                "type": "list",
+                                "size": "12",
+                                "left": "30",
+                                "bottom": "50",
+                                "padding": "30",
+                                "elements": [
+                                    {
+                                        "type": "item",
+                                        "value": "Adaptive casework management"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "value": "100% customized to your needs"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "value": "Single knowledge repository"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "value": "Extensible API"
+                                    },
+                                    {
+                                        "type": "item",
+                                        "value": "KPI measurement and analysis"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rectangle",
+                        "top": "100",
+                        "left": "0",
+                        "bottom": "100",
+                        "width": "20",
+                        "background-color": "#ff0000",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "rotate": "90",
+                                "left": "-50",
+                                "bottom": "55",
+                                "color": "#FFFFFF",
+                                "value": "www.openflow.nu"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "polygon",
+                        "left": "20",
+                        "bottom": "20",
+                        "background-color": "#FFFFFF",
+                        "elements": [
+                            {
+                                "type": "point",
+                                "x": "0",
+                                "y": "0"
+                            },
+                            {
+                                "type": "point",
+                                "x": "0",
+                                "y": "80"
+                            },
+                            {
+                                "type": "point",
+                                "x": "80",
+                                "y": "80"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "file": "openflow-logo.png",
+                        "right": "20",
+                        "bottom": "20",
+                        "width": "40",
+                        "height": "40"
+                    }
+                ]
+            }
+        ]
+    }

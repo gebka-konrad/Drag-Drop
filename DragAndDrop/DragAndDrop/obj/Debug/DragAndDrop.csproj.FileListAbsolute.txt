@@ -1,0 +1,6 @@
+C:\Users\kgebka\Desktop\DragAndDrop\DragAndDrop\bin\DragAndDrop.dll.config
+C:\Users\kgebka\Desktop\DragAndDrop\DragAndDrop\bin\DragAndDrop.dll
+C:\Users\kgebka\Desktop\DragAndDrop\DragAndDrop\bin\DragAndDrop.pdb
+C:\Users\kgebka\Desktop\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+C:\Users\kgebka\Desktop\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.dll
+C:\Users\kgebka\Desktop\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
